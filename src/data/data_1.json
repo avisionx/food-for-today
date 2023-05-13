@@ -1,0 +1,530 @@
+{
+    "breakfast": [
+        {
+            "heading": "dry fruits",
+            "items": [
+                "badam",
+                "pista",
+                "kaju",
+                "peanuts",
+                "walnuts"
+            ]
+        },
+        {
+            "heading": "sprouts",
+            "items": [
+                "moong",
+                "chana"
+            ]
+        },
+        {
+            "heading": "eggs",
+            "items": [
+                "fry omlete",
+                "bread omlete",
+                "boiled"
+            ]
+        },
+        {
+            "heading": "milk",
+            "items": [
+                "coffee",
+                "tea",
+                "hot chocolate",
+                "bournvita"
+            ]
+        },
+        {
+            "heading": "fruits",
+            "items": [
+                "seasonal"
+            ]
+        },
+        {
+            "heading": "salad",
+            "items": [
+                "seasonal"
+            ]
+        },
+        {
+            "heading": "raita / curd",
+            "items": [
+                "cucumber",
+                "cot",
+                "boondi",
+                "aloo",
+                "ghiya",
+                "bathue"
+            ]
+        },
+        {
+            "heading": "lassi",
+            "items": [
+                "salt"
+            ]
+        },
+        {
+            "heading": "pav bhaji",
+            "items": [
+                "pav bhaji"
+            ]
+        },
+        {
+            "heading": "south indian",
+            "items": [
+                "dosa",
+                "idly",
+                "uttapam",
+                "wada"
+            ]
+        },
+        {
+            "heading": "chole bhature",
+            "items": [
+                "chole bhature"
+            ]
+        },
+        {
+            "heading": "aloo puri",
+            "items": [
+                "aloo puri"
+            ]
+        },
+        {
+            "heading": "shakes + smoothies",
+            "items": [
+                "mango",
+                "banana shake"
+            ]
+        }
+    ],
+    "snack": [
+        {
+            "heading": "sandwich",
+            "items": [
+                "coleslaw",
+                "plt",
+                "cheese tomato",
+                "cot",
+                "aloo toast",
+                "paneer toast",
+                "paneer bhurji"
+            ]
+        },
+        {
+            "heading": "subway",
+            "items": [
+                "veggie subway"
+            ]
+        },
+        {
+            "heading": "burger",
+            "items": [
+                "paneer tikki burger",
+                "aloo tikki burger"
+            ]
+        },
+        {
+            "heading": "chila",
+            "items": [
+                "besan chila",
+                "onion chila",
+                "moong dal chila"
+            ]
+        },
+        {
+            "heading": "eggs",
+            "items": [
+                "fry omlete",
+                "bread omlete",
+                "boiled"
+            ]
+        },
+        {
+            "heading": "milk",
+            "items": [
+                "coffee",
+                "tea",
+                "hot chocolate",
+                "bournvita"
+            ]
+        },
+        {
+            "heading": "fruits",
+            "items": [
+                "seasonal"
+            ]
+        },
+        {
+            "heading": "salad",
+            "items": [
+                "seasonal"
+            ]
+        },
+        {
+            "heading": "raita / curd",
+            "items": [
+                "cucumber",
+                "cot",
+                "boondi",
+                "aloo",
+                "ghiya",
+                "bathue"
+            ]
+        },
+        {
+            "heading": "lassi",
+            "items": [
+                "salt"
+            ]
+        },
+        {
+            "heading": "tikka",
+            "items": [
+                "paneer",
+                "chap",
+                "broccli",
+                "mushroom"
+            ]
+        },
+        {
+            "heading": "snack healthy",
+            "items": [
+                "macroni",
+                "papad/fryum",
+                "appe",
+                "poha",
+                "bhel puri",
+                "sev puri",
+                "pani puri",
+                "hummus & pita & veggies",
+                "dhokla",
+                "popcorn",
+                "makhane",
+                "corn",
+                "mur mure",
+                "healthy biscuits",
+                "masala oats"
+            ]
+        },
+        {
+            "heading": "snack unhealthy",
+            "items": [
+                "paneer pakode",
+                "samose",
+                "chowmein",
+                "chilli potato",
+                "garlic bread",
+                "macroni",
+                "tikki",
+                "pizza",
+                "french fries",
+                "bread pakoda",
+                "maggie",
+                "spring roll",
+                "momo",
+                "vada pav",
+                "biscuits",
+                "namkeen"
+            ]
+        },
+        {
+            "heading": "pav bhaji",
+            "items": [
+                "pav bhaji"
+            ]
+        },
+        {
+            "heading": "chips",
+            "items": [
+                "zuchini chips",
+                "potato chips",
+                "banana chips",
+                "nachos"
+            ]
+        },
+        {
+            "heading": "south indian",
+            "items": [
+                "dosa",
+                "idly",
+                "uttapam",
+                "wada"
+            ]
+        },
+        {
+            "heading": "shakes + smoothies",
+            "items": [
+                "mango",
+                "banana shake"
+            ]
+        },
+        {
+            "heading": "soups",
+            "items": [
+                "hot n sour",
+                "mushroom",
+                "clear/mix veggie",
+                "sweet corn",
+                "manchow",
+                "ramen"
+            ]
+        },
+        {
+            "heading": "summer roll",
+            "items": [
+                "summer roll"
+            ]
+        }
+    ],
+    "dinner": [
+        {
+            "heading": "eggs",
+            "items": [
+                "fry omlete",
+                "bread omlete",
+                "boiled"
+            ]
+        },
+        {
+            "heading": "fruits",
+            "items": [
+                "seasonal"
+            ]
+        },
+        {
+            "heading": "salad",
+            "items": [
+                "seasonal"
+            ]
+        },
+        {
+            "heading": "dal / sabji / chawal / pulao / roti / parantha",
+            "items": [
+                "bhindi",
+                "paneer",
+                "soya nuggets",
+                "aloo shimla",
+                "aloo tamatat",
+                "palak paneer",
+                "aloo methi",
+                "tinde",
+                "matar paneer",
+                "kadhi",
+                "rajma",
+                "chole",
+                "dals",
+                "dal makhni",
+                "ghiya kofta",
+                "bengan",
+                "matar mushroom",
+                "chaap"
+            ]
+        },
+        {
+            "heading": "raita / curd",
+            "items": [
+                "cucumber",
+                "cot",
+                "boondi",
+                "aloo",
+                "ghiya",
+                "bathue"
+            ]
+        },
+        {
+            "heading": "lassi",
+            "items": [
+                "salt"
+            ]
+        },
+        {
+            "heading": "tikka",
+            "items": [
+                "paneer",
+                "chap",
+                "broccli",
+                "mushroom"
+            ]
+        },
+        {
+            "heading": "chinese rice / noodle + gravy",
+            "items": [
+                "fried rice / noodles",
+                "manchuian / chilli paneer / veggie in gravy"
+            ]
+        },
+        {
+            "heading": "pasta + garlic bread",
+            "items": [
+                "pesto",
+                "red sauce",
+                "white sauce",
+                "aglio olio"
+            ]
+        },
+        {
+            "heading": "pav bhaji",
+            "items": [
+                "pav bhaji"
+            ]
+        },
+        {
+            "heading": "south indian",
+            "items": [
+                "dosa",
+                "idly",
+                "uttapam",
+                "wada"
+            ]
+        },
+        {
+            "heading": "soups",
+            "items": [
+                "hot n sour",
+                "mushroom",
+                "clear/mix veggie",
+                "sweet corn",
+                "manchow",
+                "ramen"
+            ]
+        }
+    ],
+    "lunch": [
+        {
+            "heading": "fruits",
+            "items": [
+                "seasonal"
+            ]
+        },
+        {
+            "heading": "salad",
+            "items": [
+                "seasonal"
+            ]
+        },
+        {
+            "heading": "dal / sabji / chawal / pulao / roti / parantha",
+            "items": [
+                "bhindi",
+                "paneer",
+                "soya nuggets",
+                "aloo shimla",
+                "aloo tamatat",
+                "palak paneer",
+                "aloo methi",
+                "tinde",
+                "matar paneer",
+                "kadhi",
+                "rajma",
+                "chole",
+                "dals",
+                "dal makhni",
+                "ghiya kofta",
+                "bengan",
+                "matar mushroom",
+                "chaap"
+            ]
+        },
+        {
+            "heading": "raita / curd",
+            "items": [
+                "cucumber",
+                "cot",
+                "boondi",
+                "aloo",
+                "ghiya",
+                "bathue"
+            ]
+        },
+        {
+            "heading": "lassi",
+            "items": [
+                "salt"
+            ]
+        },
+        {
+            "heading": "tikka",
+            "items": [
+                "paneer",
+                "chap",
+                "broccli",
+                "mushroom"
+            ]
+        },
+        {
+            "heading": "chinese rice / noodle + gravy",
+            "items": [
+                "fried rice / noodles",
+                "manchuian / chilli paneer / veggie in gravy"
+            ]
+        },
+        {
+            "heading": "pasta + garlic bread",
+            "items": [
+                "pesto",
+                "red sauce",
+                "white sauce",
+                "aglio olio"
+            ]
+        },
+        {
+            "heading": "pav bhaji",
+            "items": [
+                "pav bhaji"
+            ]
+        },
+        {
+            "heading": "south indian",
+            "items": [
+                "dosa",
+                "idly",
+                "uttapam",
+                "wada"
+            ]
+        },
+        {
+            "heading": "chole bhature",
+            "items": [
+                "chole bhature"
+            ]
+        },
+        {
+            "heading": "aloo puri",
+            "items": [
+                "aloo puri"
+            ]
+        }
+    ],
+    "beverage": [
+        {
+            "heading": "detox water",
+            "items": [
+                "orange slice",
+                "mint",
+                "lemon slice",
+                "watermelon",
+                "cucumber"
+            ]
+        },
+        {
+            "heading": "ice tea",
+            "items": [
+                "peach",
+                "lemon"
+            ]
+        },
+        {
+            "heading": "coconut water",
+            "items": [
+                "coconut water"
+            ]
+        },
+        {
+            "heading": "juice",
+            "items": [
+                "orange"
+            ]
+        }
+    ]
+}

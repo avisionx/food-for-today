@@ -1,0 +1,32 @@
+Heading,Categories,Items
+Dry Fruits,Breakfast,"Badam, Pista, Kaju, Peanuts, Walnuts"
+Sprouts,Breakfast,"Moong, Chana"
+Sandwich,Snack,"Coleslaw, PLT, Cheese tomato, COT, Aloo toast, Paneer toast, Paneer bhurji"
+Subway,Snack,Veggie Subway
+Burger,Snack,"Paneer tikki burger, Aloo tikki burger"
+Chila,Snack,"Besan Chila, Onion Chila, Moong Dal Chila"
+Oat Pancakes,Breakfast,
+Eggs,"Snack, Breakfast, Dinner","Fry Omlete, Bread Omlete, Boiled"
+Milk,"Snack, Breakfast","Coffee, Tea, Hot Chocolate, Bournvita"
+Fruits,"Lunch, Breakfast, Dinner, Snack",Seasonal
+Salad,"Lunch, Breakfast, Dinner, Snack",Seasonal
+Dal / Sabji / Chawal / Pulao / Roti / Parantha,"Lunch, Dinner","Bhindi, Paneer, Soya Nuggets, Aloo Shimla, Aloo Tamatat, Palak Paneer, Aloo Methi, Tinde, Matar Paneer, Kadhi, Rajma, Chole, Dals, Dal Makhni, Ghiya Kofta, Bengan, Matar Mushroom, Chaap"
+Raita / Curd,"Lunch, Breakfast, Dinner, Snack","Cucumber, COT, Boondi, Aloo, Ghiya, Bathue"
+Lassi,"Lunch, Breakfast, Dinner, Snack",Salt
+Tikka,"Snack, Dinner, Lunch","Paneer, Chap, Broccli, Mushroom"
+Snack Healthy,Snack,"Macroni, Papad/Fryum, Appe, Poha, Bhel Puri, Sev Puri, Pani Puri, Hummus & Pita & Veggies, Dhokla, Popcorn, Makhane, Corn, Mur Mure, Healthy Biscuits, Masala Oats"
+Snack Unhealthy,Snack,"Paneer Pakode, Samose, Chowmein, Chilli Potato, Garlic Bread, Macroni, Tikki, Pizza, French Fries, Bread Pakoda, Maggie, Spring Roll, Momo, Vada Pav, Biscuits, Namkeen"
+Chinese Rice / Noodle + Gravy,"Lunch, Dinner","Fried Rice / Noodles, Manchuian / Chilli Paneer / Veggie in Gravy"
+Pasta + Garlic Bread,"Lunch, Dinner","Pesto, Red Sauce, White Sauce, Aglio Olio"
+Pav bhaji,"Lunch, Breakfast, Dinner, Snack",Pav Bhaji
+Chips,Snack,"Zuchini Chips, Potato Chips, Banana Chips, Nachos"
+Detox Water,Beverage ,"Orange Slice, Mint, Lemon Slice, Watermelon, Cucumber"
+Ice tea,Beverage ,"Peach, Lemon"
+Coconut water,Beverage ,Coconut water
+South Indian,"Lunch, Breakfast, Dinner, Snack","Dosa, Idly, Uttapam, Wada"
+Chole bhature,"Breakfast, Lunch",Chole bhature
+Aloo Puri ,"Breakfast, Lunch",Aloo Puri 
+Shakes + Smoothies,"Breakfast, Snack","Mango, Banana Shake"
+Soups,"Snack, Dinner","Hot n Sour, Mushroom, Clear/Mix Veggie, Sweet Corn, Manchow, Ramen"
+Juice,Beverage ,Orange
+Summer Roll,Snack,Summer Roll
