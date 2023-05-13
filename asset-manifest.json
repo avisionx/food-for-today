@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-for-today/static/css/main.a4848ae8.css",
+    "main.js": "/food-for-today/static/js/main.6d4f17c4.js",
+    "static/js/787.f0bedc55.chunk.js": "/food-for-today/static/js/787.f0bedc55.chunk.js",
+    "index.html": "/food-for-today/index.html",
+    "main.a4848ae8.css.map": "/food-for-today/static/css/main.a4848ae8.css.map",
+    "main.6d4f17c4.js.map": "/food-for-today/static/js/main.6d4f17c4.js.map",
+    "787.f0bedc55.chunk.js.map": "/food-for-today/static/js/787.f0bedc55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4848ae8.css",
+    "static/js/main.6d4f17c4.js"
+  ]
+}

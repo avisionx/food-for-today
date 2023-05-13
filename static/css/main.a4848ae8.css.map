@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a4848ae8.css","mappings":"2FAEA,KACI,6BACJ,CAEA,gBACI,cACJ","sources":["App.css"],"sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;700&display=swap');\n\nbody {\n    font-family: 'Outfit', sans-serif;\n}\n\n.cursor-pointer {\n    cursor: pointer;\n}\n"],"names":[],"sourceRoot":""}
